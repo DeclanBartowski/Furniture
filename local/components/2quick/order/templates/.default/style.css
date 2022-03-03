@@ -1,0 +1,10 @@
+.tq_error_order{
+    color: red;
+}
+.tq_free svg{
+    display: none;
+}
+.tq_delete_coupon{
+    cursor: pointer;
+    color: red;
+}

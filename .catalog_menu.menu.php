@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Каталог", 
+		"/catalog/", 
+		Array(), 
+		Array("ADDITIONAL_CLASS"=>"catalog-link", "ICON"=>"<span class=\"ico-catalog\"></span>"), 
+		"" 
+	),
+	Array(
+		"Двери", 
+		"/catalog/dveri/", 
+		Array(), 
+		Array("EXT_CLASS"=>"catalog-link"), 
+		"" 
+	),
+	Array(
+		"Декор", 
+		"/catalog/dekor/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Кухни", 
+		"/catalog/kukhni/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мебель", 
+		"/catalog/mebel/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

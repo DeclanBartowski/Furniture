@@ -1,0 +1,24 @@
+.dropdown-block.bx-ui-sls-input-block{
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid #000;
+    outline: none;
+    resize: none;
+    transition: border-bottom .3s;
+    padding: 0 1.3em 0 1.3em;
+    box-shadow: none;
+}
+.dropdown-block.bx-ui-sls-input-block .dropdown-icon{
+    display: none;
+}
+.dropdown-block.bx-ui-sls-input-block .bx-ui-sls-container,.dropdown-block.bx-ui-sls-input-block .bx-ui-sls-container .bx-ui-sls-fake{
+    min-height: 50px;
+}
+.bx-sls .bx-ui-sls-clear{
+    background: none;
+    width: 20px;
+    height: 20px;
+    top: 15px;
+}
